@@ -1,3 +1,6 @@
+**Deprecated**: use https://github.com/agimus-project/pym3t instead
+-------------------
+
 A python wrapper around ICG tracker from https://github.com/DLR-RM/3DObjectTracking/tree/master, __WIP__
 
 # Installation
